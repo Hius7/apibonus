@@ -1,0 +1,47 @@
+[
+  {
+    "userid": 1,
+    "id": 1,
+    "name": "Name: C#",
+    "pronounce": "Pronounce: xi xáp",
+    "year": "Year: 2000",
+    "author": "Author: Anders Hejlsberg",
+    "usage": "Build: Mobile apps, Desktop apps, Cloud-based services, Websites, Enterprise software and games"
+  },
+  {
+    "userid": 1,
+    "id": 2,
+    "name": "Name: Java",
+    "pronounce": "Pronounce: gia va",
+    "year": "Year: 1995",
+    "author": "Author: James Gosling, Mike Sheridan, and Patrick Naughton",
+    "usage": "Build: Mobile apps, Cloud application, Web application, Chatbots, Games"
+  },
+  {
+    "userid": 1,
+    "id": 3,
+    "name": "Name: C++",
+    "pronounce": "Pronounce: xi cộng cộng",
+    "year": "Year: 1985",
+    "author": "Author: Addison–Wesley",
+    "usage": "Build: Operating systems, Browsers, Games"
+  },
+  {
+    "userid": 1,
+    "id": 4,
+    "name": "Name: Python",
+    "pronounce": "Pronounce: pai thon",
+    "year": "Year: 1991",
+    "author": "Author: Guido van Rossum",
+    "usage": "Build: AI and machine learning, Data analytics, Data visualisation, Programming applications, Web development, Game development, Language development, Finance, Design"
+  },
+  {
+    "userid": 1,
+    "id": 5,
+    "name": "Name: Swift",
+    "pronounce": "Pronounce: squíp",
+    "year": "Year: 2014",
+    "author": "Author: Apple Inc",
+    "usage": "Build: Apps for iOS, Mac, Apple TV, and Apple Watch"
+  }
+]
